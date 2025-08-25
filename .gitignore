@@ -96,6 +96,7 @@ InitTestScene*.unity*
 /[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers.meta
 
 # Auto-generated scenes by play mode tests
+# なぜか以下の二つのファイルはcommitしてgitに読み込ませると、awsの制約に引っかかってしまうため、gitには入れていない。
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
 Assets/TerrainTexturesPackFree/TerrainTextures/GroundStones01.png
 Assets/TerrainTexturesPackFree/TerrainTextures/GroundStones01_N.png
